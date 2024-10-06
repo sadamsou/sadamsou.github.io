@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Random Tech News</title>
+        <link>http://www.randomtechnews.com</link>
+        <description>This is a random tech news RSS feed for demonstration purposes.</description>
+        <language>en-us</language>
+        <pubDate>Sat, 06 Oct 2024 12:00:00 GMT</pubDate>
+
+        <item>
+            <title>AI Innovations in 2024</title>
+            <link>http://www.randomtechnews.com/article1</link>
+            <description>This article discusses the latest innovations in artificial intelligence this year.</description>
+            <pubDate>Sat, 06 Oct 2024 11:00:00 GMT</pubDate>
+            <guid>http://www.randomtechnews.com/article1</guid>
+        </item>
+
+        <item>
+            <title>Quantum Computing Breakthrough</title>
+            <link>http://www.randomtechnews.com/article2</link>
+            <description>A major breakthrough in quantum computing has been announced.</description>
+            <pubDate>Fri, 05 Oct 2024 09:00:00 GMT</pubDate>
+            <guid>http://www.randomtechnews.com/article2</guid>
+        </item>
+
+        <item>
+            <title>The Future of Space Exploration</title>
+            <link>http://www.randomtechnews.com/article3</link>
+            <description>This article explores the future of space exploration and upcoming missions.</description>
+            <pubDate>Thu, 04 Oct 2024 14:30:00 GMT</pubDate>
+            <guid>http://www.randomtechnews.com/article3</guid>
+        </item>
+    </channel>
+</rss>
+
